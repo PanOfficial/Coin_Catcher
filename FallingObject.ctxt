@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FallingObject
+comment1.params=x\ y\ s\ coin
+comment1.target=FallingObject(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage,\ boolean)
+comment2.params=
+comment2.target=boolean\ isCoin()
+comment3.params=dt
+comment3.target=void\ act(float)
+numComments=4

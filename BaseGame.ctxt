@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BaseGame
+comment1.params=
+comment1.target=BaseGame()
+comment2.params=s
+comment2.target=void\ setActiveScreen(BaseScreen)
+comment2.text=\r\n\ \ \ \ public\ void\ create()\ {\r\n\ \ \ \ \ \ \ \ //\ Initialize\ font\ generator\r\n\ \ \ \ \ \ \ \ fontGenerator\ \=\ new\ FreeTypeFontGenerator(Gdx.files.internal("assets/arial.ttf"));\ //\ Assuming\ arial.ttf\ exists\ or\ use\ another\ font\r\n\ \ \ \ \ \ \ \ FreeTypeFontParameter\ fontParameter\ \=\ new\ FreeTypeFontParameter();\r\n\ \ \ \ \ \ \ \ fontParameter.size\ \=\ 24;\ //\ Default\ font\ size\r\n\ \ \ \ \ \ \ \ fontParameter.color\ \=\ Color.WHITE;\ //\ Default\ font\ color\r\n\ \ \ \ \ \ \ \ BitmapFont\ font\ \=\ fontGenerator.generateFont(fontParameter);\r\n\r\n\ \ \ \ \ \ \ \ labelStyle\ \=\ new\ Label.LabelStyle(font,\ Color.WHITE);\ //\ Use\ the\ generated\ font\r\n\ \ \ \ }\r\n
+comment3.params=
+comment3.target=void\ dispose()
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BaseScreen
+comment1.params=
+comment1.target=BaseScreen()
+comment10.params=
+comment10.target=void\ dispose()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=dt
+comment3.target=void\ update(float)
+comment4.params=dt
+comment4.target=void\ render(float)
+comment5.params=
+comment5.target=void\ show()
+comment6.params=width\ height
+comment6.target=void\ resize(int,\ int)
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=
+comment8.target=void\ resume()
+comment9.params=
+comment9.target=void\ hide()
+numComments=11
